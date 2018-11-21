@@ -1,0 +1,1 @@
+This folder is intended to temporaly save the video frame

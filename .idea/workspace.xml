@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edfbc1db-d26e-4aea-906b-8179f06895af" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/417.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/418.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/419.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template/420.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/recognizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/100.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/100.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/101.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/101.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/102.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/102.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/103.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/103.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/104.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/104.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/105.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/105.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/106.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/106.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/107.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/107.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/108.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/108.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/109.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/109.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/110.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/110.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/111.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/111.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/112.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/112.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/113.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/113.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/114.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/114.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/115.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/115.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/116.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/116.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/117.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/117.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/118.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/118.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/119.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/119.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/120.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/120.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/121.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/121.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/122.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/122.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/123.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/123.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/124.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/124.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/125.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/125.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/126.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/126.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/127.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/127.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/128.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/128.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/129.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/129.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/130.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/130.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/131.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/131.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/132.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/132.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/133.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/133.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/134.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/134.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/135.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/135.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/136.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/136.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/137.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/137.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/138.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/138.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/139.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/139.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/140.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/140.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/141.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/141.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/142.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/142.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/143.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/143.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/144.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/144.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/145.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/145.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/146.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/146.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/147.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/147.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/148.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/148.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/149.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/149.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/150.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/150.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/151.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/151.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/152.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/152.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/153.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/153.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/154.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/154.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/155.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/155.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/156.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/156.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/157.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/157.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/158.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/158.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/159.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/159.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/160.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/160.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/161.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/161.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/162.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/162.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/163.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/163.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/164.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/164.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/165.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/165.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/166.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/166.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/167.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/167.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/168.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/168.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/169.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/169.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/170.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/170.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/171.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/171.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/172.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/172.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/173.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/173.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/174.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/174.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/175.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/175.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/176.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/176.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/177.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/177.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/178.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/178.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/179.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/179.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/180.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/180.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/181.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/181.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/182.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/182.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/183.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/183.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/184.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/184.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/185.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/185.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/186.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/186.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/187.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/187.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/188.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/188.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/189.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/189.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/190.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/190.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/191.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/191.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/192.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/192.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/193.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/193.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/194.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/194.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/195.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/195.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/196.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/196.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/197.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/197.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/198.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/198.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/199.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/199.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/20.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/20.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/200.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/200.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/201.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/201.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/202.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/202.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/203.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/203.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/204.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/204.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/205.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/205.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/206.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/206.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/207.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/207.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/208.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/208.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/209.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/209.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/21.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/21.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/210.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/210.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/211.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/211.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/212.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/212.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/213.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/213.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/214.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/214.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/215.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/215.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/216.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/216.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/217.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/217.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/218.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/218.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/219.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/219.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/22.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/22.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/220.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/220.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/221.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/221.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/222.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/222.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/223.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/223.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/224.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/224.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/225.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/225.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/226.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/226.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/227.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/227.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/228.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/228.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/229.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/229.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/23.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/23.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/230.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/230.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/231.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/231.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/232.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/232.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/233.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/233.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/234.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/234.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/235.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/235.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/236.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/236.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/237.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/237.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/238.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/238.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/239.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/239.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/24.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/24.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/240.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/240.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/241.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/241.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/242.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/242.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/243.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/243.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/244.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/244.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/245.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/245.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/246.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/246.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/247.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/247.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/248.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/248.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/249.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/249.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/25.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/25.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/250.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/251.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/251.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/252.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/252.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/253.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/253.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/254.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/254.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/255.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/255.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/256.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/256.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/257.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/257.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/258.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/258.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/259.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/259.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/26.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/26.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/260.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/260.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/261.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/261.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/262.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/262.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/263.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/263.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/264.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/264.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/265.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/265.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/266.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/266.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/267.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/267.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/268.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/268.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/269.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/269.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/27.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/27.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/270.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/270.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/271.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/271.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/272.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/272.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/273.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/273.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/274.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/274.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/275.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/275.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/276.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/276.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/277.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/277.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/278.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/278.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/279.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/279.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/28.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/28.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/280.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/280.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/281.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/281.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/282.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/282.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/283.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/283.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/284.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/284.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/285.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/285.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/286.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/286.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/287.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/287.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/288.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/288.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/289.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/289.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/29.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/29.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/290.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/290.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/291.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/291.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/292.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/292.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/293.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/293.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/294.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/294.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/295.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/295.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/296.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/296.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/297.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/297.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/298.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/298.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/299.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/299.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/30.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/30.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/300.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/300.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/301.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/301.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/302.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/302.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/303.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/303.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/304.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/304.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/305.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/305.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/306.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/306.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/307.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/307.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/308.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/308.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/309.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/309.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/31.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/31.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/310.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/310.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/311.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/311.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/312.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/312.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/313.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/313.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/314.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/314.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/315.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/315.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/316.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/316.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/317.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/317.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/318.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/318.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/319.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/319.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/32.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/32.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/320.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/320.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/321.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/321.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/322.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/322.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/323.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/323.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/324.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/324.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/325.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/325.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/326.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/326.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/327.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/327.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/328.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/328.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/329.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/329.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/33.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/33.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/330.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/330.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/331.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/331.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/332.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/332.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/333.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/333.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/334.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/334.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/335.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/335.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/336.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/336.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/337.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/337.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/338.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/338.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/339.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/339.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/34.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/34.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/340.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/340.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/341.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/341.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/342.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/342.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/343.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/343.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/344.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/344.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/345.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/345.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/346.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/346.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/347.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/347.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/348.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/348.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/349.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/349.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/35.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/35.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/350.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/350.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/351.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/351.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/352.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/352.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/353.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/353.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/354.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/354.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/355.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/355.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/356.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/356.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/357.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/357.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/358.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/358.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/359.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/359.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/36.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/36.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/360.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/360.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/361.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/361.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/362.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/362.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/363.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/363.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/364.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/364.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/365.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/365.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/366.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/366.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/367.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/367.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/368.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/368.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/369.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/369.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/37.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/37.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/370.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/370.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/371.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/371.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/372.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/372.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/373.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/373.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/374.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/374.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/375.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/375.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/376.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/376.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/377.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/377.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/378.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/378.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/379.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/379.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/38.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/38.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/380.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/380.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/381.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/381.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/382.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/382.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/383.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/383.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/384.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/384.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/385.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/385.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/386.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/386.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/387.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/387.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/388.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/388.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/389.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/389.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/39.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/39.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/390.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/390.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/391.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/391.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/392.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/392.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/393.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/393.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/394.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/394.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/395.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/395.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/396.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/396.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/397.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/397.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/398.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/398.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/399.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/399.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/40.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/40.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/400.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/400.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/401.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/401.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/402.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/402.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/403.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/403.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/404.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/404.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/405.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/405.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/406.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/406.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/407.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/407.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/408.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/408.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/409.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/409.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/41.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/41.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/410.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/410.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/411.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/411.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/412.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/412.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/413.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/413.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/414.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/414.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/415.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/415.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/416.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/416.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/42.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/42.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/43.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/43.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/44.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/44.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/45.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/45.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/46.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/46.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/47.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/47.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/48.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/48.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/49.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/49.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/50.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/50.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/51.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/51.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/52.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/52.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/53.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/53.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/54.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/54.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/55.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/55.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/56.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/56.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/57.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/57.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/58.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/58.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/59.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/59.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/60.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/60.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/61.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/61.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/62.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/62.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/63.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/63.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/64.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/64.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/65.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/65.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/66.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/66.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/67.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/67.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/68.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/68.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/69.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/69.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/70.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/70.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/71.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/71.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/72.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/72.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/73.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/73.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/74.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/74.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/75.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/76.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/76.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/77.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/77.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/78.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/78.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/79.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/79.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/80.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/80.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/81.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/81.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/82.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/82.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/83.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/83.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/84.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/84.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/85.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/85.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/86.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/86.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/87.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/87.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/88.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/88.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/89.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/89.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/90.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/90.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/91.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/91.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/92.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/92.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/93.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/93.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/94.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/94.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/95.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/95.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/96.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/96.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/97.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/97.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/98.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/98.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/99.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template/99.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/ccrotation.mp4" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/finalProject$recognizer.coverage" NAME="recognizer Coverage Results" MODIFIED="1543550851491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/finalProject$crossValidation.coverage" NAME="crossValidation Coverage Results" MODIFIED="1543336223215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="recognizer.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/recognizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CompareImage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CompareImage.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\n</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>,\n</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CompareImage.py" />
+        <option value="$PROJECT_DIR$/trainingSet/trainDataSet.txt" />
+        <option value="$PROJECT_DIR$/crossValidation.py" />
+        <option value="$PROJECT_DIR$/recognizer.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="finalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="finalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalProject" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="finalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalProject" type="462c0819:PsiDirectoryNode" />
+              <item name="template2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="finalProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="finalProject" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/videos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/videos" />
+      <recent name="$PROJECT_DIR$/trainingSet" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.recognizer">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="finalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="crossValidation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="finalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crossValidation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="recognizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="finalProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recognizer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.recognizer" />
+      <item itemvalue="Python.crossValidation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.recognizer" />
+        <item itemvalue="Python.crossValidation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edfbc1db-d26e-4aea-906b-8179f06895af" name="Default" comment="" />
+      <created>1543273795840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543273795840</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="PlantUML" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="8" sideWeight="0.5070755" side_tool="true" visible="true" weight="0.22569445" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.254717" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2370283" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18333334" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="SciView" order="7" sideWeight="0.49292454" visible="true" weight="0.22569445" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985849" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3278302" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/recognizer.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/recognizer.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>cv2.imread(&quot;images/frame0.jpg&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>vid</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>scoring</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="31" lean-forward="true" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompareImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/datasets/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rejected.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompareImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4635">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/datasets/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rejected.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompareImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="43" column="37" lean-forward="true" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rejected.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompareImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainingSet/frame1.jpg" />
+    <entry file="file://$PROJECT_DIR$/trainingSet/frame0.jpg" />
+    <entry file="file://$PROJECT_DIR$/rejected.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-1113180291/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-698">
+          <caret line="3622" column="8" selection-start-line="3622" selection-start-column="8" selection-end-line="3622" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/subprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="670" selection-start-line="670" selection-end-line="670" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/utils/validation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="500" selection-start-line="500" selection-end-line="500" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/sklearn/datasets/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainingSet/trainDataSet.csv" />
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/pandas/core/generic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="1575" selection-start-line="1575" selection-end-line="1575" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/numpy/lib/npyio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="995" selection-start-line="995" selection-end-line="995" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crossValidation.py" />
+    <entry file="file:///usr/local/Cellar/python/3.7.1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template2/0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template2/6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template2/18.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template2/30.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/frame8.jpg" />
+    <entry file="file://$PROJECT_DIR$/template/frame71.jpg" />
+    <entry file="file://$PROJECT_DIR$/template/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/frame0.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/frame67.jpg" />
+    <entry file="file://$PROJECT_DIR$/templateold/3.jpg" />
+    <entry file="file://$PROJECT_DIR$/template2/5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template2/13.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/86.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/91.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/95.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CompareImage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template2/8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
